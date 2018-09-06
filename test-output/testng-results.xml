@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13105" started-at="2018-03-20T09:27:36Z" finished-at="2018-03-20T09:27:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13105" started-at="2018-03-20T09:27:36Z" finished-at="2018-03-20T09:27:49Z">
+      <class name="com.POMPageFactoryDemo.RunTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.POMPageFactoryDemo.RunTest@60285225]" name="beforeClass" is-config="true" duration-ms="10533" started-at="2018-03-20T14:57:36Z" finished-at="2018-03-20T14:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.POMPageFactoryDemo.RunTest@60285225]" name="LoginTest" duration-ms="2484" started-at="2018-03-20T14:57:47Z" finished-at="2018-03-20T14:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.POMPageFactoryDemo.RunTest@60285225]" name="afterClass" is-config="true" duration-ms="58" started-at="2018-03-20T14:57:49Z" finished-at="2018-03-20T14:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.POMPageFactoryDemo.RunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

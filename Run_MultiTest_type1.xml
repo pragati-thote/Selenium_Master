@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Multi_Suit1">
+   <test name="Multi_Test1">
+    <classes>
+     <class name="com.TestNG.DataProvider_Demo"></class>
+     <class name="com.TestNG.BeforeMethod_Demo"></class>
+    </classes>
+   </test>
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Parameter_suit">
+	<parameter name="UserName" value="Rani"></parameter>
+	<parameter name="Password" value="123456"></parameter>
+	<test name="Parameter_tset">
+	<classes>
+		<class name="com.TestNG.ParameterPassingByXml"></class>	
+	</classes>
+	</test>
+</suite>
